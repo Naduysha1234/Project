@@ -21,7 +21,7 @@ public class Dependencies {
         return maxIdEntity;
     }
 
-    public int getCountDepend() {
+    public int getCount() {
         return count;
     }
 
